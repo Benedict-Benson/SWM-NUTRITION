@@ -16,6 +16,7 @@
             </h1>
             <p class="body-lg text-[#64748b] mb-8 max-w-[460px]">
               SWM Nutrition provides personalized, evidence-based nutrition consultancy tailored to your unique health goals. Based in Kenya and serving clients nationwide, we use practical, whole-food strategies to support gut health, weight management, and overall wellness, helping you build sustainable habits that last.
+            </p>
             <div class="flex flex-wrap gap-3 mb-7">
               <NuxtLink to="/contact" class="btn btn-primary btn-lg gap-2">
                 Book Consultation →
