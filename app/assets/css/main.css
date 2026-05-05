@@ -30,7 +30,7 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;text-size-adjust:100%}
 body{
-  font-family:'DM Sans',system-ui,sans-serif;
+  font-family:'Poppins',system-ui,sans-serif;
   font-size:15px;line-height:1.6;
   color:var(--dark);background:var(--white);
   -webkit-font-smoothing:antialiased;overflow-x:hidden;
