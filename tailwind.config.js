@@ -17,7 +17,7 @@ export default {
         'primary-light': '#e8f5ee',
       },
       fontFamily: {
-        sans:  ['DM Sans', 'sans-serif'],
+        sans:  ['Poppins', 'sans-serif'],
         serif: ['Playfair Display', 'serif'],
       },
     },
