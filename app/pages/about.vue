@@ -48,16 +48,22 @@
             </div>
             <h2 class="h2 mb-5">Your Partner in Achieving Optimal Health</h2>
             <div class="space-y-4 mb-7">
-              <p class="body-sm text-[#64748b]">
-                SWM Nutrition is an individually-owned consultancy dedicated to transforming lives through evidence-based nutritional guidance. Founded in 2016 and <strong class="text-[#1a7a4a] font-medium">located in the heart of Nairobi</strong>, we serve clients across Kenya with personalized wellness solutions.
-              </p>
-              <p class="body-sm text-[#64748b]">
-                Our approach combines scientific expertise with <strong class="text-[#1a7a4a] font-medium">local knowledge</strong>, creating meal plans that incorporate fresh, locally-sourced ingredients from Kenyan markets. We believe in sustainable, culturally-relevant nutrition that fits your lifestyle and budget.
-              </p>
-              <p class="body-sm text-[#64748b]">
-                What started as a passion for helping individuals achieve their health goals has grown into a trusted consultancy serving over <strong class="text-[#1a7a4a] font-medium">500 clients</strong>. Every success story fuels our commitment to making professional nutrition guidance accessible to all Kenyans.
-              </p>
-            </div>
+  <p class="body-sm text-[#64748b]">
+    SWM Nutrition is a Kenya-based wellness consultancy helping people build sustainable, nutrient-rich eating habits that support long-term health, not short-term diet trends. Founded in 2025 in Nairobi, we work with clients across Kenya to improve energy, performance, gut health, weight management, and overall wellbeing through structured, <strong class="text-[#1a7a4a] font-medium">evidence-based nutrition guidance</strong>.
+  </p>
+  <p class="body-sm text-[#64748b]">
+    Our philosophy is simple: nutrition should be <strong class="text-[#1a7a4a] font-medium">practical, culturally relevant, and sustainable</strong>. We focus on simplicity, affordability, and long-term consistency. Instead of restrictive or trend-based diets, we design personalized nutrition strategies that fit everyday life using fresh, locally available foods from Kenyan markets. The goal is not perfection, but sustainable progress.
+  </p>
+  <p class="body-sm text-[#64748b]">
+    Our approach combines structured nutrition systems with practical application. We emphasize whole foods, dietary diversity, and balanced meals built from familiar ingredients. Every plan is tailored to the individual, considering lifestyle, goals, culture, and budget — whether the focus is energy, digestive health, body composition, or general wellness.
+  </p>
+  <p class="body-sm text-[#64748b]">
+    We also support <strong class="text-[#1a7a4a] font-medium">household-level change</strong>, helping families create healthier food environments where balanced eating becomes practical and sustainable for everyone. What began as a passion for improving everyday health has grown into a trusted consultancy serving clients across Kenya.
+  </p>
+  <p class="body-sm text-[#64748b]">
+    SWM Nutrition exists to replace confusion and diet culture with a structured, sustainable way of eating that supports <strong class="text-[#1a7a4a] font-medium">lifelong health</strong>.
+  </p>
+</div>
 
             <!-- Feature badges row -->
             <div class="grid grid-cols-2 gap-4 mb-7">
