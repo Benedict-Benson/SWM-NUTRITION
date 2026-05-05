@@ -76,11 +76,11 @@
                 <div class="grid grid-cols-1 sm:grid-cols-2 gap-5">
                   <div>
                     <label class="lbl">Full Name <span class="text-red-500">*</span></label>
-                    <input v-model="form.name" type="text" placeholder="First Last" class="input" />
+                    <input v-model="form.name" type="text" class="input" />
                   </div>
                   <div>
                     <label class="lbl">Email Address <span class="text-red-500">*</span></label>
-                    <input v-model="form.email" type="email" placeholder="name@example.com" class="input" />
+                    <input v-model="form.email" type="email" class="input" />
                   </div>
                   <div>
                     <label class="lbl">Phone Number</label>
