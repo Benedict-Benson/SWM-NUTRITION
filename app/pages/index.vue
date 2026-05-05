@@ -177,18 +177,6 @@
     </section>
 
     <!-- ════════════ STATS BANNER ════════════ -->
-    <section class="bg-[#1a7a4a] py-16 relative overflow-hidden">
-      <div class="absolute -top-20 -right-20 w-72 h-72 rounded-full bg-white/5 pointer-events-none" />
-      <div class="absolute -bottom-16 -left-16 w-56 h-56 rounded-full bg-white/5 pointer-events-none" />
-      <div class="wrap relative">
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-          <div v-for="(s, i) in stats" :key="s.label" class="reveal" :style="`--d:${i * 80}ms`">
-            <p class="text-[2.75rem] font-extrabold text-white leading-none">{{ s.value }}</p>
-            <p class="text-sm text-green-200 font-medium mt-1.5">{{ s.label }}</p>
-          </div>
-        </div>
-      </div>
-    </section>
   </div>
 </template>
 
@@ -252,10 +240,4 @@ const testimonials = [
   { name: 'Peter Njoroge', city: 'Nakuru',   avatar: 'https://i.pravatar.cc/96?img=33', quote: 'Professional, knowledgeable, and genuinely caring. The consultation sessions are thorough and the follow-up support is exceptional.', result: 'Reversed pre-diabetes' },
 ]
 
-const stats = [
-  { value: '500+',  label: 'Happy Clients'     },
-  { value: '98%',   label: 'Success Rate'       },
-  { value: '1000+', label: 'Meal Plans Created' },
-  { value: '8+',    label: 'Years Experience'   },
-]
 </script>
