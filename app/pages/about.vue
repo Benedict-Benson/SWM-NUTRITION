@@ -120,30 +120,6 @@
     </section>
 
     <!-- ════════════ QUALIFICATIONS ════════════ -->
-    <section class="section bg-white">
-      <div class="wrap">
-        <div class="sec-head reveal">
-          <h2 class="h2">Qualifications & Credentials</h2>
-          <p>Professional certifications and continuous education</p>
-        </div>
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
-          <div
-            v-for="(q, i) in qualifications"
-            :key="q.name"
-            class="card p-6 reveal"
-            :style="`--d:${i * 70}ms`"
-          >
-            <div class="icon-box ib-green-l w-10 h-10 mb-4">
-              <svg class="w-5 h-5 text-[#1a7a4a]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
-            </div>
-            <div class="h-0.5 w-8 bg-[#e2e8f0] mb-3" />
-            <p class="text-[#1a7a4a] text-xs font-bold mb-1">{{ q.year }}</p>
-            <h4 class="font-bold text-[#0f172a] text-sm mb-1">{{ q.name }}</h4>
-            <p class="text-xs text-[#64748b]">{{ q.institution }}</p>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- ════════════ CORE VALUES ════════════ -->
     <section class="section bg-[#f8fafc]">
@@ -199,13 +175,6 @@ const miniStats = [
   { value: '500+',  label: 'Happy Clients' },
   { value: '98%',   label: 'Success Rate' },
   { value: '1000+', label: 'Custom Plans' },
-]
-
-const qualifications = [
-  { name: 'BSc in Nutrition & Dietetics',     institution: 'Kenyatta University',                              year: '2015' },
-  { name: 'Certified Nutrition Specialist',   institution: 'Board for Certification of Nutrition Specialists',  year: '2016' },
-  { name: 'Sports Nutrition Certificate',     institution: 'International Society of Sports Nutrition',         year: '2018' },
-  { name: 'Clinical Nutrition Certification', institution: 'Academy of Nutrition and Dietetics',                year: '2020' },
 ]
 
 const coreValues = [
