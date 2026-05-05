@@ -51,18 +51,17 @@
           <div class="space-y-3.5">
             <div class="flex items-start gap-2.5">
               <svg class="text-primary mt-0.5 shrink-0" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-              <p class="text-muted text-[13.5px] leading-relaxed">Westlands, Nairobi, Kenya</p>
+              <p class="text-muted text-[13.5px] leading-relaxed">Nairobi, Kenya</p>
             </div>
             <div class="flex items-start gap-2.5">
               <svg class="text-primary mt-0.5 shrink-0" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.41 2 2 0 0 1 3.6 1.2h3a2 2 0 0 1 2 1.72 19.79 19.79 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L7.91 8.83a16 16 0 0 0 6.05 6.05l1.79-1.79a2 2 0 0 1 2.11-.45 19.79 19.79 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
               <div class="text-muted text-[13.5px]">
-                <p>+254 700 123 456</p>
-                <p>+254 720 987 654</p>
+                <p>+254 7XXX XXX</p>
               </div>
             </div>
             <div class="flex items-start gap-2.5">
               <svg class="text-primary mt-0.5 shrink-0" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-              <p class="text-muted text-[13.5px]">info@swmnutrition.co.ke</p>
+              <p class="text-muted text-[13.5px]">info@XXX</p>
             </div>
           </div>
         </div>
